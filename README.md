@@ -3,4 +3,4 @@
 
 ## Live Demo
 
-[View demo](https://patriciamasioni.github.io/Barbershop/)
+[View demo](https://patriciamasioni.github.io/Forever-in-progress2/)
